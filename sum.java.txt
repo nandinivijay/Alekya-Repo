@@ -1,0 +1,7 @@
+class sum
+{
+void sum()
+{
+System.out.println("sum ");
+}
+}
